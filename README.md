@@ -1,24 +1,24 @@
-# Hi there 👋, I'm Abhisek Kar  
+````markdown
+# Hi there 👋, I'm Abhisek Kar
 
-💻 **Software Developer | Node.js Backend Engineer | React Enthusiast**  
-🚀 Passionate about building scalable applications, automation workflows, and AI-powered products.  
-🌱 Currently learning **Domain-Driven Design (DDD)** & **Product Thinking** to bridge tech and business.  
-
----
-
-## 🚀 About Me  
-- 🔭 I’m currently working on:  
-  - An **Applicant Tracking System (ATS)** with resume-job matching using AI (Pinecone + GPT)  
-  - A **workspace chat platform** (Socket.IO + React + Redux)  
-  - An **e-commerce system** with advanced order/payment flows  
-
-- 🌱 Exploring: **Python, Computer Vision, and Automation (Zapier, n8n, Make.com)**  
-- 💬 Ask me about: **Node.js, Express, React, MongoDB, Socket.IO, AWS**  
-- ⚡ Fun fact: I enjoy switching between **dev & product manager hats** 👨‍💻📊  
+💻 **Full Stack Developer (MERN) | Product-Driven Builder | Startup Explorer**  
+🚀 Building momentum at the intersection of ideas, growth, and real-world impact.  
+🌱 Always learning and shipping—currently diving deep into **Domain-Driven Design, Product Thinking, and Automation**.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🚀 About Me
+- 🔭 I’m currently working on:
+  - An **AI-powered Applicant Tracking System (ATS)** with resume-job matching (Pinecone + GPT)
+  - A **real-time workspace chat** (Socket.IO + React + Redux)
+  - Advanced **e-commerce systems** with seamless order/payment flows
+- 🌱 Exploring: **Python, Computer Vision, and Automation (Zapier, n8n, Make.com)**
+- 💬 Ask me about: **Node.js, Express, React, MongoDB, Product Management**
+- ⚡ Fun fact: I love switching between **dev & product manager hats** 👨‍💻📊
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages & Frameworks**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -43,38 +43,38 @@
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Featured Projects
 
-### 🟢 Applicant Tracking System (ATS)  
+### 🟢 Applicant Tracking System (ATS)
 AI-powered system for **resume-job matching** with vector search + GPT scoring.  
-[🔗 View Project](#)  
+[🔗 View Project](#)
 
-### 🟠 Workspace Chat Platform  
+### 🟠 Workspace Chat Platform
 A real-time chat system with **Socket.IO, typing indicators, media uploads, infinite scroll**.  
-[🔗 View Project](#)  
+[🔗 View Project](#)
 
-### 🔵 E-Commerce Platform  
+### 🔵 E-Commerce Platform
 Advanced **order/payment system** with Razorpay integration & stock management.  
-[🔗 View Project](#)  
+[🔗 View Project](#)
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-![Abhisek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhisekkar&show_icons=true&theme=radical)  
+![Abhisek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhisek-kar&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abhisekkar&theme=radical)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abhisek-kar&theme=radical)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisekkar&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisek-kar&layout=compact&theme=radical)
 
 ---
 
-## 🌍 Connect With Me  
+## 🌍 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karabhisek16@gmail.com)
 
 ---
 
-⭐️ From [Abhisek Kar](https://github.com/abhisekkar)
+⭐️ From [Abhisek Kar](https://github.com/abhisek-kar)
+````
