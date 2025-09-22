@@ -1,4 +1,3 @@
-````markdown
 # Hi there 👋, I'm Abhisek Kar
 
 💻 **Full Stack Developer (MERN) | Product-Driven Builder | Startup Explorer**  
